@@ -12,3 +12,7 @@ Files:
 README.txt
 windowHelper.cpp
 WindowGraphics.cpp
+
+# Nota do desenvolvedor (21/08/2023)
+
+Procurar desenvolver renderização de imagem e sprites pelo windows.h: Sem OpenGL.
